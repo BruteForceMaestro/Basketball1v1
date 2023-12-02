@@ -1,4 +1,4 @@
-# Basketball1v1
+# 1veball
 A basketball PvE game, created on Unity3D engine, for NIS IB Personal Project.
 Author Name: Tabay Dinmukhammed, 10F
 
